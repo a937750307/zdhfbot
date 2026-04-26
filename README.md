@@ -27,4 +27,5 @@
 - 当前示例仅做本地演示，自动回复规则写在页面内的 JavaScript 中。
 - 若需生产环境使用，建议拆分样式和脚本，并使用后端接口实现自动回复逻辑。
 
-<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/137e6165-183c-47e9-87c6-59f9769a20a3" />
+<img width="1369" height="846" alt="image" src="https://github.com/user-attachments/assets/aa926cba-a4f3-4cb0-94c5-670cf7ac6dcb" />
+
